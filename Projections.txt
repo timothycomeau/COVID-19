@@ -1,0 +1,25 @@
+
+
+
+2020-03-16
+On March 16th I began to calculate projections.
+
+2020-03-17
+Canada: the projection for today was 565. Actual was 569.
+World (outside of China): the projection for today was 99601. Actual was 97996.
+On March 17th I began to calculate projections for Ontario.
+
+2020-03-18
+Ontario: The projection for today was 262. Actual was 221.
+Canada: the projection for today was 729. Actual was 727.
+World (outside of China): the projection for today was 115599. Actual was 109,991.
+
+2020-03-19
+Ontario: The projection for today was 304. Actual was 257.
+
+Canada: the projection for today was 796. Actual was 800.
+• 796 based on math of a couple of days ago
+• I recalculated the projection by deriving a new median exponent of 0.25. The projects 933.
+• The latest exponential value, where 569 grew to 727 is 0.245. Using that, the pr0jection is 929.
+
+World (outside of China): the projection for today was 129,772. Actual was 132099.
