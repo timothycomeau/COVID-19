@@ -49,27 +49,27 @@ Ontario: 6429 cases
 
 
 ==================================================================
-PROJECTIONS FOR APRIL 15 2020
+PROJECTIONS FOR APRIL 17 2020
 
-USA: 642,142 cases & 28,896 dead 
-+ 28,256 cases | + 2849 dead 
+USA: 711,769 cases & 36,300 dead 
++ 34,713 cases | + 1720 dead 
 
-Canada: 28,451 cases & 1,138 dead 
-+ 1388 cases | + 158 dead
+Canada: 31,650 cases & 1,582 dead 
++ 1544 cases | + 271 dead
 
-Ontario: 8445 cases 
-+ 492 cases
+Ontario: 9515 cases 
++ 554 cases
 
 #COVID19 #coronavirus #CoronavirusPandemic #CoronavirusUSA
 
+======================================
+UPDATED ACTUAL FOR APRIL 16
 
-UPDATED ACTUAL FOR APRIL 14
+USA: 677,056 cases & 34,580 dead
 
-USA: 613,886 cases & 26,047 dead
+Canada: 30,106 cases & 1273 dead
 
-Canada: 27,063 cases & 980 dead
-
-Ontario: 7953 cases
+Ontario: 8961 cases
 
 
 
